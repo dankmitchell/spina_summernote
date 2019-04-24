@@ -3,6 +3,7 @@
 //= require spina/admin/codemirror/xml
 //= require spina/admin/codemirror/formatting
 //= require summernote
+//= require popper
 //= require bootstrap/util
 //= require bootstrap/tooltip
 //= require bootstrap/dropdown
